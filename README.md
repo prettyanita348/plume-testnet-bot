@@ -128,9 +128,9 @@ Replace `/path/to/plume-testnet-bot` with the actual path to the directory.
 
 If you would like to support the development of this project, you can make a donation using the following addresses:
 
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
+- **Solana**: `FgorTbSeoqBFXvS8QnxEza6kvp5npWr8e3x7J33dghpv`
+- **EVM**: `0x84C049034E8399847B0E35c7d2Cd364CE2bB8096`
+- **BTC**: `bc1q8uk50v6ts424uaswqyaa403jhdjhztwyllwyha`
 
 ## Contributing
 
